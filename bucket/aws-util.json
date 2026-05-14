@@ -1,18 +1,18 @@
 {
-    "version": "0.02",
+    "version": "0.03",
     "description": "AWS S3 utilities for managing and deduplicating buckets",
     "license": "MIT",
     "url": [
-        "https://raw.githubusercontent.com/blue-anvil/aws-util/v0.02/nuke-bucket.py",
-        "https://raw.githubusercontent.com/blue-anvil/aws-util/v0.02/generate_manifest.py",
-        "https://raw.githubusercontent.com/blue-anvil/aws-util/v0.02/generate_hashes.py",
-        "https://raw.githubusercontent.com/blue-anvil/aws-util/v0.02/compare_hashes.py",
-        "https://raw.githubusercontent.com/blue-anvil/aws-util/v0.02/delete_files.py"
+        "https://raw.githubusercontent.com/blue-anvil/aws-util/v0.03/nuke-bucket.py",
+        "https://raw.githubusercontent.com/blue-anvil/aws-util/v0.03/generate_manifest.py",
+        "https://raw.githubusercontent.com/blue-anvil/aws-util/v0.03/generate_hashes.py",
+        "https://raw.githubusercontent.com/blue-anvil/aws-util/v0.03/compare_hashes.py",
+        "https://raw.githubusercontent.com/blue-anvil/aws-util/v0.03/delete_files.py"
     ],
     "hash": [
         "sha256:3c27459a07e04bb89922d00bfd94bf2b9221e86a280522c42760df8b7891b6ae",
         "sha256:9934a1b7d97eb8a41a9da00e38301d679a6b0c04d0191b5d653931753753e43d",
-        "sha256:9708bbb18b7fc436aa4baa1d04abae4f3be820e148b7e9d036c4f6d0a3994b88",
+        "sha256:9be1f152aa7245e900d742fd8f6b710b6a348e6c084cbf93d0f4434c80b8d660",
         "sha256:f1b0884750d4e3fc051c0d34295b2203bb7316c2cadd30048657993c2e0be26a",
         "sha256:b1bb6e2fcb3287446d7fa8b6bc9934cfd6c9d613c9233802d1a12468923a3a5d"
     ],
